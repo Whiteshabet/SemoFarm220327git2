@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Menu App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="restaurant">Restaurantes</string>
+    <string name="category">Cozinhas</string>
+    <string name="favorites">Restaurantes Favoritos</string>
+    <string name="favorite_food">Pratos Favoritos</string>
+    <string name="wizzard">Tutorial</string>
+    <string name="exit">Sair</string>
+
+    <!--Home Activity-->
+    <string name="welcome_login_button">구글 로그인</string>
+    <string name="welcome_fb_login_button">페이스북 로그인</string>
+    <string name="welcome_nv_login_button">네이버 로그인</string>
+
+    <!--Home Activity-->
+    <string name="home_categories">카테고리</string>
+    <string name="home_places">판매중인 상품</string>
+    <string name="home_view_all">더보기</string>
+    <string name="home_search">검색어를 입력해주세요</string>
+    <string name="home_toolbar">세모팜</string>
+    <string name="home_filter">Filtro</string>
+
+    <!--Place Activity-->
+    <string name="place_delivery">판매자</string>
+    <string name="place_open_time">판매자</string>
+    <string name="place_contact">채팅신청</string>
+    <string name="place_featured">판매 물품 강조</string>
+    <string name="place_menu">판매 물품</string>
+
+
+    <!--Item Details Activity-->
+    <string name="item_details_extra_title">구매 가능 상품</string>
+    <string name="item_details_extra_obs">상품 설명</string>
+    <string name="item_details_extra_hint">적을수 있는 공간</string>
+    <string name="item_details_description">상품 설명 위</string>
+    <string name="item_details_add_to_order">연락 하기</string>
+
+    <!--Profile Activity-->
+    <string name="profile_toolbar">프로필</string>
+    <string name="profile_edit">수정</string>
+    <string name="profile_account_credits">NONE</string>
+    <string name="profile_favorite_foods">상품목록</string>
+    <string name="profile_favorite_restaurants">채팅</string>
+
+    <!--Favorite Foods Activity-->
+    <string name="fav_food_toolbar">찜 목록</string>
+    <string name="fav_food_title">아니면 내가올린 상품</string>
+
+    <!--Favorite Restaurants Activity-->
+    <string name="fav_place_toolbar">프로필 내 툴바</string>
+    <string name="fav_place_title">프로필 내</string>
+
+    <!--Restaurants List Activity-->
+    <string name="places_list_toolbar">RESTAURANTES</string>
+    <string name="places_list_title">판매 중인 상품</string>
+
+    <!--Categories List Activity-->
+    <string name="categories_list_toolbar">카테고리</string>
+    <string name="categories_list_title">카테고리</string>
+
+    <!--Menu-->
+    <string name="menu_home">홈</string>
+    <string name="menu_discover">게시판</string>
+    <string name="menu_favorite">시세조회</string>
+    <string name="menu_profile">프로필</string>
+
+    <!--Ask for food-->
+    <string name="ask_for_food_begin">Olá! Gostaria de pedir um</string>
+    <string name="ask_for_food_extras">com os adicionais de: </string>
+
+</resources>
